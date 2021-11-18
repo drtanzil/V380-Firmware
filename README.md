@@ -22,13 +22,13 @@ Camera:
 
 <br>
 <br>
-SoC
+SoC ANYKA AK3918EN080 V200 CBSJ01F19
 <br>
 <br>
 <img src="https://github.com/drtanzil/V380-Firmware/blob/main/SoC%20ANYKA%203918.png">
 <br>
 <br>
-WIFI USB MODEL
+WIFI USB MODEL RDA 5995 UAS113 GBAG2042
 <br>
 <br>
 <img src="https://github.com/drtanzil/V380-Firmware/blob/main/WF9%20WIFI%20USB%20RDA%205995%20UAS113.jpg" width="640">
