@@ -15,20 +15,20 @@ Camera needs to be powered off when the SD card is taken out or inserted in<br>
 <br>
 And here is a video link about the upgrade . https://www.youtube.com/watch?v=-vB-d9FKFrs&feature=youtu.be<br>
 <br>
-Camera:
+<h3>Camera:</h3>
 <br>
 <br>
 <img src="https://github.com/drtanzil/V380-Firmware/blob/main/camera.jpg" width="640">
 
 <br>
 <br>
-SoC ANYKA AK3918EN080 V200 CBSJ01F19
+<h3>SoC ANYKA AK3918EN080 V200 CBSJ01F19</h3>
 <br>
 <br>
 <img src="https://github.com/drtanzil/V380-Firmware/blob/main/SoC%20ANYKA%203918.png">
 <br>
 <br>
-WIFI USB MODEL RDA 5995 UAS113 GBAG2042
+<h3>WIFI USB MODEL RDA 5995 UAS113 GBAG2042</h3>
 <br>
 <br>
 <img src="https://github.com/drtanzil/V380-Firmware/blob/main/WF9%20WIFI%20USB%20RDA%205995%20UAS113.jpg" width="640">
@@ -36,14 +36,14 @@ WIFI USB MODEL RDA 5995 UAS113 GBAG2042
 <br>
 
 
-MOtherboard Front
+<h3>Motherboard Front</h3>
 <br>
 <br>
 <img src="https://github.com/drtanzil/V380-Firmware/blob/main/Motherboard%20Front.jpg" width="640">
 <br>
 <br>
 
-MOtherboard Back
+<h3>Motherboard Back</h3>
 <br>
 <br>
 <img src="https://github.com/drtanzil/V380-Firmware/blob/main/Motherboard%20Back.jpg" width="640">
