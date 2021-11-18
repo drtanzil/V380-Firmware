@@ -1,8 +1,10 @@
 v380 shenzhen IP camera firmware Model/Firmware: <b>HWV280E12_WF9_PTZ_20180628</b><br>
-<b>Model:</b> V380E2 C2 720p WIFI PTZ<br>
+<b>Device:</b> V380E2 C2 WF9 720p WIFI PTZ<br>
 <b>Firmware:</b> V. 2.6.8.7<br>
+<b>Model:</b> V380E2 C2<br>
+<b>Wifi Driver:</b> WF9<br>
 <b>Release Date:</b> 14/07/2021<br>
-OFFICIAL UPDATE PATCH<br>
+<b>OFFICIAL UPDATE PATCH</b><br>
 <br>
 <br>
 <b>Step 1:</b> unzip the “<a href="https://github.com/drtanzil/V380-Firmware/blob/main/V380_AK_3918E-V200__V2.6.8.7_2021-07-28.zip">V380_AK_3918E-V200__V2.6.8.7_2021-07-28.zip</a>”, copy the contents into the SD card root directory(means if there are any folders in the card, do not move them in any of them)<br>
